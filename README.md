@@ -5,9 +5,11 @@
   <samp>
     😆 Hey! Welcome to my profile
     <br />
-    <br />🍉 Take a look at my stats  🌱
+    <br />✨ Hi, I'm @Zihao-Hu(胡 子豪) 
     <br />
+    <br />🌱 I'm a Sophomore learning at Zhejiang University
     <br />
+    <br />📫 How to reach me: zihao_hu1@163.com
   </samp>
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=321hu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="321hu's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=321hu&layout=compact&theme=buefy&hide_border=true" /> </a> | 
