@@ -9,7 +9,7 @@
     <br />
     <br />🌱 I'm a Sophomore learning at Zhejiang University
     <br />
-    <br />📫 How to reach me: <a href="zihao_hu1@.163.com">zihao_hu1@163.com</a>
+    <br />📫 How to reach me: <a href="mailto:zihao_hu1@.163.com">zihao_hu1@163.com</a>
   </samp>
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=321hu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="321hu's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=321hu&layout=compact&theme=buefy&hide_border=true" /> </a> | 
