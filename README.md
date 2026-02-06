@@ -3,10 +3,6 @@
   <samp>
     😆 Hey! Welcome to my profile
     <br />
-    <br />✨ I'm @Zihao Hu(胡子豪) 
-    <br />
-    <br />🌱 I'm a Junior learning at Zhejiang University
-    <br />
     <br />📫 How to reach me: <a href="mailto:zihao_hu1@.163.com">zihao_hu1@163.com</a>
   </samp>
 
